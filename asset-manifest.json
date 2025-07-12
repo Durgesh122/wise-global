@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wise-global/static/css/main.36530cb6.css",
-    "main.js": "/wise-global/static/js/main.9667e640.js",
+    "main.css": "/wise-global/static/css/main.9e13d616.css",
+    "main.js": "/wise-global/static/js/main.efd46334.js",
     "static/media/image6.png": "/wise-global/static/media/image6.357a7c08f55117e24b19.png",
     "static/media/image1.png": "/wise-global/static/media/image1.940bce4b4243ac3beafd.png",
     "static/media/image7.png": "/wise-global/static/media/image7.03a0ffe56426a0146f09.png",
@@ -17,11 +17,11 @@
     "static/media/slick.eot": "/wise-global/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/wise-global/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/wise-global/static/media/slick.295183786cd8a1389865.woff",
-    "main.36530cb6.css.map": "/wise-global/static/css/main.36530cb6.css.map",
-    "main.9667e640.js.map": "/wise-global/static/js/main.9667e640.js.map"
+    "main.9e13d616.css.map": "/wise-global/static/css/main.9e13d616.css.map",
+    "main.efd46334.js.map": "/wise-global/static/js/main.efd46334.js.map"
   },
   "entrypoints": [
-    "static/css/main.36530cb6.css",
-    "static/js/main.9667e640.js"
+    "static/css/main.9e13d616.css",
+    "static/js/main.efd46334.js"
   ]
 }
