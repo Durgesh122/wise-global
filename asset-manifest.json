@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/wise-global/static/css/main.b4bca9dd.css",
-    "main.js": "/wise-global/static/js/main.771e3e19.js",
+    "main.css": "/wise-global/static/css/main.c7c48850.css",
+    "main.js": "/wise-global/static/js/main.58e1fab7.js",
     "static/media/QR.png": "/wise-global/static/media/QR.8e7cc142b16a857199a8.png",
     "static/media/wise3.png": "/wise-global/static/media/wise3.523de42496fa207a11cf.png",
     "static/media/sebi.png": "/wise-global/static/media/sebi.48aa0f65fa5de6c02245.png",
     "index.html": "/wise-global/index.html",
-    "main.b4bca9dd.css.map": "/wise-global/static/css/main.b4bca9dd.css.map",
-    "main.771e3e19.js.map": "/wise-global/static/js/main.771e3e19.js.map"
+    "main.c7c48850.css.map": "/wise-global/static/css/main.c7c48850.css.map",
+    "main.58e1fab7.js.map": "/wise-global/static/js/main.58e1fab7.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4bca9dd.css",
-    "static/js/main.771e3e19.js"
+    "static/css/main.c7c48850.css",
+    "static/js/main.58e1fab7.js"
   ]
 }
