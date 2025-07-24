@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwise_global=self.webpackChunkwise_global||[]).push([[9126],{9126:(s,a,e)=>{e.r(a),e.d(a,{default:()=>i});e(5043);var l=e(579);const i=()=>(0,l.jsxs)("div",{children:[(0,l.jsx)("h2",{children:"Complaint Data"}),(0,l.jsx)("p",{children:"This is the Complaint Data page."})]})}}]);
+//# sourceMappingURL=9126.5bb7417c.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwise_global=self.webpackChunkwise_global||[]).push([[1920],{1920:(e,s,l)=>{l.r(s),l.d(s,{default:()=>n});l(5043);var c=l(579);const n=function(){return(0,c.jsxs)("div",{className:"p-8",children:[(0,c.jsx)("h1",{className:"text-3xl font-bold mb-4",children:"Client Panel"}),(0,c.jsx)("p",{children:"Welcome to the client panel. Access insights, portfolios, and exclusive services."})]})}}}]);
+//# sourceMappingURL=1920.be145f25.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwise_global=self.webpackChunkwise_global||[]).push([[9473],{9473:(e,s,a)=>{a.r(s),a.d(s,{default:()=>t});a(5043);var l=a(579);const t=()=>(0,l.jsxs)("div",{children:[(0,l.jsx)("h1",{className:"text-2xl font-bold mb-4",children:"Intraday Services"}),(0,l.jsx)("p",{children:"We offer Intraday trading tips and strategies."})]})}}]);
+//# sourceMappingURL=9473.439099a1.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwise_global=self.webpackChunkwise_global||[]).push([[6590],{6590:(e,n,s)=>{s.r(n),s.d(n,{default:()=>l});s(5043);var i=s(579);const l=()=>(0,i.jsxs)("div",{children:[(0,i.jsx)("h2",{children:"Anti-Money Laundering (AML)"}),(0,i.jsx)("p",{children:"This is the Anti-Money Laundering page."})]})}}]);
+//# sourceMappingURL=6590.65ff4413.chunk.js.map
